@@ -8,7 +8,8 @@ I love working with people, communication and creation of something new.
 I am open to learning new tools and processes.*
 
 **Skills**
-- Git
+- Git 
+- HTML & CSS
 
 **Code examples**
 `Some very important code.`
