@@ -1,0 +1,48 @@
+body{
+    
+}
+
+.outer{
+    
+    border: 4px solid gray;
+    margin: auto; 
+}
+
+h1{
+    font-size: 19px;
+    font-style: normal;
+    color: darkslategrey;
+}
+
+a {
+    color: rgb(91, 92, 94);
+    padding: 10px;
+    font-style: oblique;
+}
+
+address{
+    color: rgb(230, 111, 0);
+    padding: 10px;
+}
+
+p.test {
+    padding: 10px;
+}
+
+p.test2 {
+    padding: 20px;
+}
+
+img {
+    height: 160px;
+    width: 160px;
+}
+
+.link {
+    height: 20px;
+    width: 50px;
+}
+
+footer{
+    padding: 20px;
+}
