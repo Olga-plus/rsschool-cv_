@@ -1,50 +1,53 @@
-body{
+*{
     font-family: Arial, Helvetica, sans-serif;
-    padding: 20px;
-    margin: auto;
+    margin: auto; }
 
+.box{
+    max-width: 900px;
+    min-width: 600px;
+    margin: auto;
 }
 
-.outer{
-    width: auto;
-    border: 4px #808080;
+header{
+    
+    background-color: #808080;
+    max-width: 900px;
+    min-width: 600px;
     margin: auto;
-    padding: 20px;
+    padding: 20px
 }
+
+main {
+    max-width: 900px;
+    min-width: 600px;
+    padding-top: 25px;    
+    margin: auto;
+    border: 4px, #797979;
+}
+
+section{
+    margin: auto;
+    padding: 20px  
+}
+
 
 h1{
-    font-size: 19px;
-    font-style: normal;
-    color: #2f4f4f;
-}
-
-h4{
-    font-size: 13px;
-    font-style: normal;
-    color: #2f4f4f;
+    color: #ffffff;
 }
 
 a {
     color: #161e2c;
+    padding: 10px;
     font-style: oblique;
 }
 
 address{
-    color: #161e2c;
     padding: 10px;
-}
-
-p.test {
-    padding: 10px;
-}
-
-p.test2 {
-    padding: 20px;
 }
 
 img {
-    height: 160px;
-    width: 160px;
+    height: 100px;
+    width: auto;
 }
 
 .link {
@@ -52,7 +55,15 @@ img {
     width: 50px;
 }
 
+mark {
+    background: #bbbbbb;
+    padding: 0 3px;
+   }
+
 footer{
+    max-width: 900px;
+    min-width: 600px;
+    margin: auto;
     padding: 20px;
     background-color: #adadad;
 }
